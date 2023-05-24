@@ -1,0 +1,13 @@
+[
+   {
+      "brand": "AjnaXR",
+      "codename": "kona",
+      "name": "AjnaXR Pro",
+      "supported_versions": [
+         {
+            "version_code": "twelve",
+            "version_name": "Twelve",
+         }
+      ]
+   }
+]
